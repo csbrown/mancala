@@ -1,4 +1,7 @@
 mancala
 =======
 
-A mancala solver in c.  This is designed to parse the mancala game tree and return the player with a winning strategy.  Right now it does not terminate for games with more than 2 pots per side.
+A mancala solver in c.  This is designed to parse the mancala game tree and return the player with a win
+
+mancala.c is the solver
+mancala.py is a mancala game that I made for the sake of playing to develop strategies in my head brain.  Requires 2 players.
